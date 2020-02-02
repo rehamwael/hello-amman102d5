@@ -1,4 +1,4 @@
-## welocome amman102d5 to github!
+## welcome amman102d5 to github!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rehamwael/hello-amman102d5/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
